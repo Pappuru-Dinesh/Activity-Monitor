@@ -1,0 +1,19 @@
+.dropdown-blue .Select-control {
+    background-color: #007BFF; /* Bootstrap blue */
+    color: white;
+}
+
+.dropdown-blue .Select-menu-outer {
+    background-color: #007BFF;
+    color: white;
+}
+
+.dropdown-green .Select-control {
+    background-color: #28A745; /* Bootstrap green */
+    color: white;
+}
+
+.dropdown-green .Select-menu-outer {
+    background-color: #28A745;
+    color: white;
+}
